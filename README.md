@@ -1,4 +1,7 @@
-# EchoPhish
+# EchoPhishgit clone https://github.com/perviz19/EchoPhish.git
+cd EchoPhish
+chmod +x EchoPhish
+./EchoPhish
 
 ##             Disclaimer
 
@@ -44,6 +47,11 @@ chmod +x EchoPhish
 ## Demo
 
 https://github.com/perviz19/EchoPhish/assets/157914250/52a96295-2d5e-41a2-bec7-21d43495746c
+
+
+
+
+İnstagram çalma 975334hwj2iuy
 
 
 
